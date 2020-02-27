@@ -1,0 +1,40 @@
+{
+  "resource_block":
+  {
+    "max_dequeuing_rate": 1600
+  },
+  "slices":
+  [
+    {
+      "id": 1,
+      "description": "URLLC",
+      "dequeuing_rate": 500,
+      "max_queue_delay": 4000,
+      "airtime_needed_avg": 100
+    },
+    {
+      "id": 2,
+      "description": "HT",
+      "dequeuing_rate": 500,
+      "max_queue_delay": null,
+      "airtime_needed_avg": 100
+    },
+    {
+      "id": 3,
+      "description": "BE",
+      "dequeuing_rate": 440,
+      "max_queue_delay": null,
+      "airtime_needed_avg": 100
+    }
+  ],
+  "unit": {
+    "dequeuing_rate_unit": "Mbps",
+    "airtime_needed_avg_unit": "us",
+    "quantum_unit": "us",
+    "delay_unit": "ms"
+  },
+  "minimum_bounds": {
+    "minimum_quantum": 1,
+    "minimum_mu": 1
+  }
+}

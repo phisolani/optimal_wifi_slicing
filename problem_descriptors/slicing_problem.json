@@ -1,0 +1,467 @@
+{
+  "resource_block":
+  {
+    "max_dequeuing_rate": 1720
+  },
+  "slices":
+  [
+    {
+      "id": 1,
+      "description": "URLLC",
+      "dequeuing_rate": 1,
+      "max_queue_delay": 1000,
+      "airtime_needed_avg": 12000
+    },
+    {
+      "id": 2,
+      "description": "HT",
+      "dequeuing_rate": 2,
+      "max_queue_delay": 1000,
+      "airtime_needed_avg": 12000
+    },
+    {
+      "id": 3,
+      "description": "BE",
+      "dequeuing_rate": 1,
+      "max_queue_delay": 1000,
+      "airtime_needed_avg": 12000
+    },
+    {
+      "id": 4,
+      "description": "BE",
+      "dequeuing_rate": 2,
+      "max_queue_delay": 1000,
+      "airtime_needed_avg": 12000
+    },
+    {
+      "id": 5,
+      "description": "BE",
+      "dequeuing_rate": 3,
+      "max_queue_delay": 1000,
+      "airtime_needed_avg": 12000
+    },
+    {
+      "id": 6,
+      "description": "BE",
+      "dequeuing_rate": 3,
+      "max_queue_delay": 1000,
+      "airtime_needed_avg": 12000
+    },
+    {
+      "id": 7,
+      "description": "BE",
+      "dequeuing_rate": 1,
+      "max_queue_delay": 1000,
+      "airtime_needed_avg": 12000
+    },
+    {
+      "id": 8,
+      "description": "BE",
+      "dequeuing_rate": 1,
+      "max_queue_delay": 1000,
+      "airtime_needed_avg": 12000
+    },
+    {
+      "id": 9,
+      "description": "BE",
+      "dequeuing_rate": 2,
+      "max_queue_delay": 1000,
+      "airtime_needed_avg": 12000
+    },
+    {
+      "id": 10,
+      "description": "BE",
+      "dequeuing_rate": 1,
+      "max_queue_delay": 1000,
+      "airtime_needed_avg": 12000
+    },
+    {
+      "id": 11,
+      "description": "BE",
+      "dequeuing_rate": 0.1,
+      "max_queue_delay": 1000,
+      "airtime_needed_avg": 12000
+    },
+    {
+      "id": 12,
+      "description": "BE",
+      "dequeuing_rate": 0.1,
+      "max_queue_delay": 1000,
+      "airtime_needed_avg": 12000
+    },
+    {
+      "id": 13,
+      "description": "BE",
+      "dequeuing_rate": 0.1,
+      "max_queue_delay": 1000,
+      "airtime_needed_avg": 12000
+    },
+    {
+      "id": 14,
+      "description": "BE",
+      "dequeuing_rate": 0.1,
+      "max_queue_delay": 1000,
+      "airtime_needed_avg": 12000
+    },
+    {
+      "id": 15,
+      "description": "BE",
+      "dequeuing_rate": 0.1,
+      "max_queue_delay": 1000,
+      "airtime_needed_avg": 12000
+    },
+    {
+      "id": 16,
+      "description": "BE",
+      "dequeuing_rate": 0.1,
+      "max_queue_delay": 1000,
+      "airtime_needed_avg": 12000
+    },
+    {
+      "id": 17,
+      "description": "BE",
+      "dequeuing_rate": 0.1,
+      "max_queue_delay": 1000,
+      "airtime_needed_avg": 12000
+    },
+    {
+      "id": 18,
+      "description": "BE",
+      "dequeuing_rate": 0.1,
+      "max_queue_delay": 1000,
+      "airtime_needed_avg": 12000
+    },
+    {
+      "id": 19,
+      "description": "BE",
+      "dequeuing_rate": 0.1,
+      "max_queue_delay": 1000,
+      "airtime_needed_avg": 12000
+    },
+    {
+      "id": 20,
+      "description": "BE",
+      "dequeuing_rate": 0.1,
+      "max_queue_delay": 1000,
+      "airtime_needed_avg": 12000
+    },
+    {
+      "id": 21,
+      "description": "BE",
+      "dequeuing_rate": 0.1,
+      "max_queue_delay": 1000,
+      "airtime_needed_avg": 12000
+    },
+    {
+      "id": 22,
+      "description": "BE",
+      "dequeuing_rate": 0.1,
+      "max_queue_delay": 1000,
+      "airtime_needed_avg": 12000
+    },
+    {
+      "id": 23,
+      "description": "BE",
+      "dequeuing_rate": 0.1,
+      "max_queue_delay": 1000,
+      "airtime_needed_avg": 12000
+    },
+    {
+      "id": 24,
+      "description": "BE",
+      "dequeuing_rate": 0.1,
+      "max_queue_delay": 1000,
+      "airtime_needed_avg": 12000
+    },
+    {
+      "id": 25,
+      "description": "BE",
+      "dequeuing_rate": 0.1,
+      "max_queue_delay": 1000,
+      "airtime_needed_avg": 12000
+    },
+    {
+      "id": 26,
+      "description": "BE",
+      "dequeuing_rate": 0.1,
+      "max_queue_delay": 1000,
+      "airtime_needed_avg": 12000
+    },
+    {
+      "id": 27,
+      "description": "BE",
+      "dequeuing_rate": 0.1,
+      "max_queue_delay": 1000,
+      "airtime_needed_avg": 12000
+    },
+    {
+      "id": 28,
+      "description": "BE",
+      "dequeuing_rate": 0.1,
+      "max_queue_delay": 1000,
+      "airtime_needed_avg": 12000
+    },
+    {
+      "id": 29,
+      "description": "BE",
+      "dequeuing_rate": 0.1,
+      "max_queue_delay": 1000,
+      "airtime_needed_avg": 12000
+    },
+    {
+      "id": 30,
+      "description": "BE",
+      "dequeuing_rate": 0.1,
+      "max_queue_delay": 1000,
+      "airtime_needed_avg": 12000
+    },
+    {
+      "id": 31,
+      "description": "BE",
+      "dequeuing_rate": 0.1,
+      "max_queue_delay": 1000,
+      "airtime_needed_avg": 12000
+    },
+    {
+      "id": 32,
+      "description": "BE",
+      "dequeuing_rate": 0.1,
+      "max_queue_delay": 1000,
+      "airtime_needed_avg": 12000
+    },
+    {
+      "id": 33,
+      "description": "BE",
+      "dequeuing_rate": 0.1,
+      "max_queue_delay": 1000,
+      "airtime_needed_avg": 12000
+    },
+    {
+      "id": 34,
+      "description": "BE",
+      "dequeuing_rate": 0.1,
+      "max_queue_delay": 1000,
+      "airtime_needed_avg": 12000
+    },
+    {
+      "id": 35,
+      "description": "BE",
+      "dequeuing_rate": 0.1,
+      "max_queue_delay": 1000,
+      "airtime_needed_avg": 12000
+    },
+    {
+      "id": 36,
+      "description": "BE",
+      "dequeuing_rate": 0.1,
+      "max_queue_delay": 1000,
+      "airtime_needed_avg": 12000
+    },
+    {
+      "id": 37,
+      "description": "BE",
+      "dequeuing_rate": 0.1,
+      "max_queue_delay": 1000,
+      "airtime_needed_avg": 12000
+    },
+    {
+      "id": 38,
+      "description": "BE",
+      "dequeuing_rate": 0.1,
+      "max_queue_delay": 1000,
+      "airtime_needed_avg": 12000
+    },
+    {
+      "id": 39,
+      "description": "BE",
+      "dequeuing_rate": 0.1,
+      "max_queue_delay": 1000,
+      "airtime_needed_avg": 12000
+    },
+    {
+      "id": 40,
+      "description": "BE",
+      "dequeuing_rate": 0.1,
+      "max_queue_delay": 1000,
+      "airtime_needed_avg": 12000
+    },
+    {
+      "id": 41,
+      "description": "BE",
+      "dequeuing_rate": 0.1,
+      "max_queue_delay": 1000,
+      "airtime_needed_avg": 12000
+    },
+    {
+      "id": 42,
+      "description": "BE",
+      "dequeuing_rate": 0.1,
+      "max_queue_delay": 1000,
+      "airtime_needed_avg": 12000
+    },
+    {
+      "id": 43,
+      "description": "BE",
+      "dequeuing_rate": 0.1,
+      "max_queue_delay": 1000,
+      "airtime_needed_avg": 12000
+    },
+    {
+      "id": 44,
+      "description": "BE",
+      "dequeuing_rate": 0.1,
+      "max_queue_delay": 1000,
+      "airtime_needed_avg": 12000
+    },
+    {
+      "id": 45,
+      "description": "BE",
+      "dequeuing_rate": 0.1,
+      "max_queue_delay": 1000,
+      "airtime_needed_avg": 12000
+    },
+    {
+      "id": 46,
+      "description": "BE",
+      "dequeuing_rate": 0.1,
+      "max_queue_delay": 1000,
+      "airtime_needed_avg": 12000
+    },
+    {
+      "id": 47,
+      "description": "BE",
+      "dequeuing_rate": 0.1,
+      "max_queue_delay": 1000,
+      "airtime_needed_avg": 12000
+    },
+    {
+      "id": 48,
+      "description": "BE",
+      "dequeuing_rate": 0.1,
+      "max_queue_delay": 1000,
+      "airtime_needed_avg": 12000
+    },
+    {
+      "id": 49,
+      "description": "BE",
+      "dequeuing_rate": 0.1,
+      "max_queue_delay": 1000,
+      "airtime_needed_avg": 12000
+    },
+    {
+      "id": 50,
+      "description": "BE",
+      "dequeuing_rate": 0.1,
+      "max_queue_delay": 1000,
+      "airtime_needed_avg": 12000
+    },
+    {
+      "id": 51,
+      "description": "BE",
+      "dequeuing_rate": 0.1,
+      "max_queue_delay": 1000,
+      "airtime_needed_avg": 12000
+    },
+    {
+      "id": 52,
+      "description": "BE",
+      "dequeuing_rate": 0.1,
+      "max_queue_delay": 1000,
+      "airtime_needed_avg": 12000
+    },
+    {
+      "id": 53,
+      "description": "BE",
+      "dequeuing_rate": 0.1,
+      "max_queue_delay": 1000,
+      "airtime_needed_avg": 12000
+    },
+    {
+      "id": 54,
+      "description": "BE",
+      "dequeuing_rate": 0.1,
+      "max_queue_delay": 1000,
+      "airtime_needed_avg": 12000
+    },
+    {
+      "id": 55,
+      "description": "BE",
+      "dequeuing_rate": 0.1,
+      "max_queue_delay": 1000,
+      "airtime_needed_avg": 12000
+    },
+    {
+      "id": 56,
+      "description": "BE",
+      "dequeuing_rate": 0.1,
+      "max_queue_delay": 1000,
+      "airtime_needed_avg": 12000
+    },
+    {
+      "id": 57,
+      "description": "BE",
+      "dequeuing_rate": 0.1,
+      "max_queue_delay": 1000,
+      "airtime_needed_avg": 12000
+    },
+    {
+      "id": 58,
+      "description": "BE",
+      "dequeuing_rate": 0.1,
+      "max_queue_delay": 1000,
+      "airtime_needed_avg": 12000
+    },
+    {
+      "id": 59,
+      "description": "BE",
+      "dequeuing_rate": 0.1,
+      "max_queue_delay": 1000,
+      "airtime_needed_avg": 12000
+    },
+    {
+      "id": 60,
+      "description": "BE",
+      "dequeuing_rate": 0.1,
+      "max_queue_delay": 1000,
+      "airtime_needed_avg": 12000
+    },
+    {
+      "id": 61,
+      "description": "BE",
+      "dequeuing_rate": 0.1,
+      "max_queue_delay": 1000,
+      "airtime_needed_avg": 12000
+    },
+    {
+      "id": 62,
+      "description": "BE",
+      "dequeuing_rate": 0.1,
+      "max_queue_delay": 1000,
+      "airtime_needed_avg": 12000
+    },
+    {
+      "id": 63,
+      "description": "BE",
+      "dequeuing_rate": 0.1,
+      "max_queue_delay": 1000,
+      "airtime_needed_avg": 12000
+    },
+    {
+      "id": 64,
+      "description": "BE",
+      "dequeuing_rate": 0.1,
+      "max_queue_delay": 1000,
+      "airtime_needed_avg": 12000
+    }
+  ],
+  "unit": {
+    "dequeuing_rate_unit": "Mbps",
+    "airtime_needed_avg_unit": "us",
+    "quantum_unit": "us",
+    "delay_unit": "ms"
+  },
+  "minimum_bounds": {
+    "minimum_quantum": 1,
+    "minimum_mu": 1
+  }
+}
